@@ -1,5 +1,7 @@
 # Project-6-Bank-Data-Analysis-Power-BI-Dashboard
 
+https://app.powerbi.com/groups/me/reports/be2adc4a-8e92-412f-97f6-84a9b07230f0/ReportSection?experience=power-bi
+
 This project is a Power BI dashboard created to analyze bank customer data.
 It focuses on customer demographics, account balances, regions, job types, and customer growth over time.
 
@@ -49,8 +51,5 @@ Bar chart for number of customers by age group and gender
 Donut charts for regional, job type, and gender distribution
 
 Time series chart showing customer join trend
-
-
-https://app.powerbi.com/groups/me/reports/be2adc4a-8e92-412f-97f6-84a9b07230f0/ReportSection?experience=power-bi
 
 KPI cards highlighting key summary metrics
