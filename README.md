@@ -50,4 +50,7 @@ Donut charts for regional, job type, and gender distribution
 
 Time series chart showing customer join trend
 
+
+https://app.powerbi.com/groups/me/reports/be2adc4a-8e92-412f-97f6-84a9b07230f0/ReportSection?experience=power-bi
+
 KPI cards highlighting key summary metrics
