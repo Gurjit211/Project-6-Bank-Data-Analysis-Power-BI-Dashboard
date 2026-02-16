@@ -42,7 +42,7 @@ White-collar job holders represent a large portion of bank customers
 
 Customer onboarding increased steadily over time
 
-Visuals Included
+Visuals Included :
 
 Line chart for balance by age and gender
 
